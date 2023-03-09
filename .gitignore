@@ -1,0 +1,4 @@
+archive/Forest/attempts/*.pkl
+engine/python/*.tar.gz
+engine/python/src/*.pkl
+engine/*.pkl
