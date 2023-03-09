@@ -1,8 +1,8 @@
 ## Info
 - An agent for `game_of_29` a card game
 - contains: 
-    Engine: `engine/Play.py` game_of_29 playing engine
-    Agent: `engine/python` a sanic webserver
+    * Engine: `engine/Play.py` game_of_29 playing engine
+    * Agent: `engine/python` a sanic webserver
 - developed for [smartbot 2023 Challange](https://github.com/Bhoos/smartbots-2023-starter-code)
 
 ## Todo:
